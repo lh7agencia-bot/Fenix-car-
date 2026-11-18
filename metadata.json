@@ -1,0 +1,6 @@
+{
+  "name": "FenixCar — Manutenção Inteligente",
+  "description": "Centro Automotivo FenixCar em Goiás - GO. Mecânica em geral, troca de óleo, alinhamento 3D, balanceamento, suspensão, freios e injeção eletrônica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
